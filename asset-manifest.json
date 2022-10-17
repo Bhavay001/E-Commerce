@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e46fc245.css",
+    "main.js": "/react-gh-pages/static/js/main.cc41b7c6.js",
+    "static/js/787.7d594e25.chunk.js": "/react-gh-pages/static/js/787.7d594e25.chunk.js",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/add-to-cart.svg": "/react-gh-pages/static/media/add-to-cart.b088aa82a73a97fb760bf80cb0710334.svg",
+    "main.e46fc245.css.map": "/react-gh-pages/static/css/main.e46fc245.css.map",
+    "main.cc41b7c6.js.map": "/react-gh-pages/static/js/main.cc41b7c6.js.map",
+    "787.7d594e25.chunk.js.map": "/react-gh-pages/static/js/787.7d594e25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46fc245.css",
+    "static/js/main.cc41b7c6.js"
+  ]
+}
